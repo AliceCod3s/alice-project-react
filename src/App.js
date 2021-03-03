@@ -9,7 +9,7 @@ export default function App() {
      <footer>
        Coded by Alice Gitman{" "}
      <a href="https://github.com/AliceCod3s/alice-project-react" target="_blank">
-open-sourced in GitHub
+open-sourced on GitHub
      </a>
      </footer>
       </div>;
